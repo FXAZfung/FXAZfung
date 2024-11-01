@@ -21,14 +21,6 @@
 
 ---
 
-## 📈 GitHub 统计
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FXAZfung&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FXAZfung&layout=compact)
-
----
-
 ## 🎯 目标
 
 - Go C# Unity
