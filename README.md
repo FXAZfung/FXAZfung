@@ -16,7 +16,7 @@
 ## 📫 联系方式
 
 - **Email**: x3374918255@gmail.com
-- **个人网站**: [佛系阿宅の小站](https://blog.fxaz.top)
+- **个人学习展示网站**: [佛系阿宅の小站](https://blog.fxaz.top)
 
 ---
 
