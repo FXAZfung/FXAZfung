@@ -8,7 +8,7 @@
 
 - Go C# Unity
 - Blender Maya
-- Vue React Vite Node.js 
+- Vue Nuxt React Vite Node.js 
 - MySQL Redis MongoDB MinIO SQLite
 
 ---
